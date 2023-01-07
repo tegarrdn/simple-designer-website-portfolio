@@ -1,0 +1,75 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #cccccc;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2d3c2f;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+.footer{
+    padding: 0px;
+    overflow: hidden;
+    background-color: #2d3c2f;
+    top: 0;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #07320e;
+}
+
+.owner{
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.header{
+    padding: 5px;
+    text-align: center;
+}
+
+.isi-about{
+    margin-top: -35px;
+    font-size: 20px;
+    padding: 25px;
+}
+
+.isi-contact{
+    margin-top: -35px;
+    font-size: 20px;
+    padding: 25px;
+}
+
+.isi-designgallery1{
+    margin-top: -35px;
+    margin-bottom: -20px;
+    font-size: 20px;
+    padding: 25px;
+}

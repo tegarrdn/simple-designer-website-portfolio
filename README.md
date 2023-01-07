@@ -1,4 +1,8 @@
-# Screenshots
+# simple-designer-website-portfolio
+
+This is a Graphic Designer website template made using HTML and CSS only. You can re-edit or upgrade it to make it more fantastic. Have fun creating. 😀 
+
+## Screenshots
 
 ![1](https://user-images.githubusercontent.com/61616229/211134486-7de38ed2-4ce6-4dfa-8723-9894ace8651f.jpg)
 
